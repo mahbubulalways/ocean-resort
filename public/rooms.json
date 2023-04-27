@@ -1,0 +1,100 @@
+[
+ 
+    {
+        "id": 1,
+        "name":"Cozy Room",
+        "price":"Price from $100.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://i.imgur.com/AnpU1nb.jpg"
+    
+    },
+    {
+        "id": 2,
+        "name":"Delux Room",
+        "price":"Price from $75.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://i.imgur.com/Z3zY4To.jpg"
+    
+    },
+    {
+        "id": 3,
+        "name":"Modern Room",
+        "price":"Price from $120.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://i.imgur.com/le1JUJy.jpg"
+    
+    },
+    {
+        "id": 4,
+        "name":"Family Suit",
+        "price":"Price from $69.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://media.istockphoto.com/id/173587041/photo/hotel-bedroom.jpg?s=612x612&w=0&k=20&c=mzbT-i0sbivf2hK4aAJi0mdYVTUca8o5vij0bJq97Ks="
+    
+    },
+    {
+        "id": 5,
+        "name":"Couple Room",
+        "price":"Price from $99.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://d3gvulv26aro02.cloudfront.net/margaritavillehollywood.dev.cendynecommerce.com-3909797587/cms/cache/v2/6286584cc3a24.jpg/1920x1080/fit/80/8415b88145dafdda550995f8b3053fff.jpg"
+    
+    },
+    {
+        "id": 6,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://d1l4e1efm2qo9x.cloudfront.net/margaritavilleresorts.com-0790814584/cms/cache/v2/63d957bd1320c.jpg/1920x1080/fit/80/b9c4b4689a419119485df2975c326903.jpg"
+      
+    },
+    {
+        "id": 7,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://st.hzcdn.com/simgs/pictures/bedrooms/making-a-new-start-in-a-remodeled-beach-house-carolyn-reyes-img~c791c9f5050661b6_4-7908-1-d8ffcff.jpg"
+      
+    },
+    {
+        "id": 8,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://i.pinimg.com/736x/c5/b9/3d/c5b93d8e2c7cc236aa0753adf50ac5cf.jpg"
+      
+    },
+    {
+        "id": 9,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://d3gvulv26aro02.cloudfront.net/margaritavillehollywood.dev.cendynecommerce.com-3909797587/cms/cache/v2/627d3f68a664d.jpg/1920x1080/fit/80/ce0e73d5b0bd3de426c98e285df9844d.jpg"
+      
+    },
+    {
+        "id": 10,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://c4.wallpaperflare.com/wallpaper/380/315/704/beach-hotel-room-wallpaper-preview.jpg"
+      
+    },
+    {
+        "id": 11,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2016/01/Zaya-Nurai-Island-Bedroom-View-Abu-Dhabi.jpg"
+      
+    },
+    {
+        "id": 12,
+        "name":"Grand Luxury Room",
+        "price":"Price from $176.0 Night",
+        "details":"In this resort the rooms are categorised and priced according to the type of bed, number of occupants, number of bed, decor, specific furnishings or features and nowadays special even the special theme available in the room.Later when assigning the guest room before the arrival of the guest the front desk agent must be aware of guest room characteristics for each room type available in the hotel. Also not to forget any guest specific request or room specific request requested by the guest for eg:- room away from the elevator, King bedded room, twin bedroom, non-smoking room etc.",
+      "image": "https://c4.wallpaperflare.com/wallpaper/359/481/80/luxury-hotel-room-bedroom-furniture-set-wallpaper-preview.jpg"
+      
+    }
+  ]
+  
